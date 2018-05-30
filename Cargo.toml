@@ -1,0 +1,6 @@
+[package]
+name = "msp430_emulator"
+version = "0.1.0"
+authors = ["n0tthatguy <n0tthatguy@n0tthatguy.com>"]
+
+[dependencies]
